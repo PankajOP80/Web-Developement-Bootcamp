@@ -58,7 +58,7 @@ ___
 </html>
 ```
 <!-- blockquote-->
-#### ___internal website codes___
+#### ___internal folder codes___
 ```<!DOCTYPE html>
 <html lang="en">
 <head>

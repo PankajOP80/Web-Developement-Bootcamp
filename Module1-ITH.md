@@ -7,7 +7,7 @@ ___
 ___
 <!-- ol-->
 <!-- blockquote -->
-__1.Tags that I learned in this Module:-__
+#### __1.Tags that I learned in this Module:-__
  <!-- Tables-->
  |Tags   |Function|
  |-------|--------|
@@ -23,14 +23,14 @@ __1.Tags that I learned in this Module:-__
  |< a>|The < a> HTML element (or anchor element), with its href attribute, creates a hyperlink to web pages, files, email addresses, locations in the same page, or anything else a URL can address.Content within each < a> should indicate the link's destination. If the href attribute is present, pressing the enter key while focused on the < a> element will activate it.|
  <!-- ol-->
  <!-- blockquote -->
-__2.Important sites to help yourself while studying:-__
+#### __2.Important sites to help yourself while studying:-__
 <!-- Links -->
 [W3schools](https://www.w3schools.com/html/)
 
 [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 <!-- ol-->
 <!-- blockquote -->
-**3.First website main code**
+#### **3.First website main code**
 
 ```
 <!DOCTYPE html>
@@ -58,7 +58,7 @@ __2.Important sites to help yourself while studying:-__
 </html>
 ```
 <!-- blockquote-->
-___internal website codes___
+#### ___internal website codes___
 ```<!DOCTYPE html>
 <html lang="en">
 <head>

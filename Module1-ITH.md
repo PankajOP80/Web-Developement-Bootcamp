@@ -1,5 +1,7 @@
 # Introduction to HTML(Hyper Text Markup Language)
-```HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript)."Hypertext" refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.HTML uses "markup" to annotate text, images, and other content for display in a Web browser. HTML markup includes special "elements" such as <head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>, <ul>, <ol>, <li> and many others.An HTML element is set off from other text in a document by "tags", which consist of the element name surrounded by "<" and ">".  The name of an element inside a tag is case insensitive. That is, it can be written in uppercase, lowercase, or a mixture. For example, the <title> tag can be written as <Title>, <TITLE>, or in any other way.```
+<!-- blockcode-->
+#### __HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript)....."Hypertext" refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.HTML uses "markup" to annotate text, images, and other content for display in a Web browser..... HTML markup includes special "elements" such as < head>, < title>, < body>, < header>, < footer>, < article>, < section>, < p>, < div>, < span>, < img>, < aside>, < audio>, < canvas>, < datalist>, < details>, < embed>, < nav>, < output>, < progress>, < video>, < ul>, < ol>, < li> and many others....An HTML element is set off from other text in a document by "tags", which consist of the element name surrounded by "<" and ">".  The name of an element inside a tag is case insensitive. That is, it can be written in uppercase, lowercase, or a mixture. For example, the < title> tag can be written as < Title>, < TITLE>, or in any other way.___
+___
 
 ### _WEB DEVELOPEMENT BOOTCAMP MODULE 1_
 ___
@@ -42,8 +44,8 @@ __2.Important sites to help yourself while studying:-__
  <body>
    <img src="C:\Users\Pankaj Naik\Desktop\Web Developement\HTML- Personal Site\Images\Naruto.png" alt="Pankaj Profile Picture">  
   <h1>Pankaj Naik</h1>      
-  <p><em>Founder and CTO of <strong><a href="https://www.appbrewery.co/">The App brewery.</a></strong></em></p>
-  <p>I am an IOS and App Developer. I love cofee and brew my own beers.</p>
+  <p><em>Engineering Student<strong><a href="https://www.bing.com/search?q=Pune&cvid=e4d3028c7d8f4bcd91e9940fae53da4a&aqs=edge..69i57j0l8.4216j0j1&pglt=43&FORM=ANNTA1&PC=ASTS">Pune College.</a></strong></em></p>
+  <p>I am an IOS and App Developer. I lovev tea and creating new things.</p>
   <hr>
   <h3>Books And Teaching</h3>
   <ul>
@@ -92,70 +94,7 @@ ___internal website codes___
 </body>
 </html>
 ```
-<!-- codeblock -->
-**Website Output**
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-</head>
- <body>
-   <img src="C:\Users\Pankaj Naik\Desktop\Web Developement\HTML- Personal Site\Images\Naruto.png" alt="Pankaj Profile Picture">  
-  <h1>Pankaj Naik</h1>      
-  <p><em>Founder and CTO of <strong><a href="https://www.appbrewery.co/">The App brewery.</a></strong></em></p>
-  <p>I am an IOS and App Developer. I love cofee and brew my own beers.</p>
-  <hr>
-  <h3>Books And Teaching</h3>
-  <ul>
-      <li>Complete iOS App Developement Bootcamp</li>
-      <li>Complete Web Developement Boodcamp</li>
-  </ul>
-  <a href="Hobbies.html">My Hobbies</a>
-  <a href="Contact-me.html">Contact Me</a>
- </body>
-</html>
 
 <!-- blockquote-->
-___
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h3>My Hobbies</h3>
-    <ol>
-        <li><a href="https://www.bikewale.com/"> Bikes</a></li>
-        <li>Watching Movies</li>
-        <li><a href="https://developer.mozilla.org/en-US/"> Coading</a></li>
-    </ol>  
-</body>
-</html>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact me</title>
-</head>
-<body>
-   <h1>My contact details</h1> 
-   <p>My fictional address</p>
-   <p>Mobile no:38742998274</p>
-   <p>myemail@gmail.com</p>
-</body>
-</html>
-
-__```Now you can see how you can really easily start to create multiple pages of your website and as long you got under the same folder you can specify the path for browser to get to it.Then you can start your home page linking with all of these different satellite pages and you start to build up website rather than just a webpage```__
+### Now you can see how you can really easily start to create multiple pages of your website and as long you got under the same folder you can specify the path for browser to get to it.Then you can start your home page linking with all of these different satellite pages and you start to build up website rather than just a webpage.
 

@@ -98,3 +98,67 @@ ___
 <!-- blockquote-->
 ### Now you can see how you can really easily start to create multiple pages of your website and as long you got under the same folder you can specify the path for browser to get to it.Then you can start your home page linking with all of these different satellite pages and you start to build up website rather than just a webpage.
 
+<!-- codeblock -->
+### **Website Output**
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+</head>
+ <body>
+   <img src="C:\Users\Pankaj Naik\Desktop\Web Developement\HTML- Personal Site\Images\Naruto.png" alt="Pankaj Profile Picture">  
+  <h1>Pankaj Naik</h1>      
+  <p><em>Engineering Student at <strong><a href="https://www.bing.com/search?q=Pune&cvid=e4d3028c7d8f4bcd91e9940fae53da4a&aqs=edge..69i57j0l8.4216j0j1&pglt=43&FORM=ANNTA1&PC=ASTS"> Pune College.</a></strong></em></p>
+  <p>I am an IOS and App Developer. I lovev tea and creating new things.</p>
+  <hr>
+  <h3>Books And Teaching</h3>
+  <ul>
+      <li>Complete iOS App Developement Bootcamp</li>
+      <li>Complete Web Developement Boodcamp</li>
+  </ul>
+  <a href="Hobbies.html">My Hobbies</a>
+  <a href="Contact-me.html">Contact Me</a>
+ </body>
+</html>
+
+<!-- blockquote-->
+___
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+</head>
+<body>
+    <h3>My Hobbies</h3>
+    <ol>
+        <li><a href="https://www.bikewale.com/"> Bikes</a></li>
+        <li>Watching Movies</li>
+        <li><a href="https://developer.mozilla.org/en-US/"> Coading</a></li>
+    </ol>  
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+</head>
+<body>
+   <h1>My contact details</h1> 
+   <p>My fictional address</p>
+   <p>Mobile no:38742998274</p>
+   <p>myemail@gmail.com</p>
+</body>
+</html>

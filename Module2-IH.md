@@ -1,4 +1,4 @@
-# Intermidiate HTML
+# Intermediate HTML
 ### _WEB DEVELOPEMENT BOOTCAMP MODULE 2_
 ---
 <!-- blockcode-->
